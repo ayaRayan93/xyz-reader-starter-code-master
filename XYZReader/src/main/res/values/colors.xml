@@ -25,5 +25,6 @@
 
     <color name="mBlue">#0078D7</color>
     <color name="mGreen">#22B14C</color>
+    <color name="mGreenDark">#045010</color>
     <color name="mBlack">#333</color>
 </resources>
